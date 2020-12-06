@@ -1,6 +1,7 @@
-#26-5-2014, 20:41
-#Python
-#Generators and iterators
+# 26-5-2014, 20:41
+# Python
+# Generators and iterators
+# Educational Code. Author: Todor Arnaudov
 
 import imp
 
