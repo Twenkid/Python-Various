@@ -2,6 +2,12 @@
 
 ## Various tests, experiments, ...
 
+## Draw
+
+Drawing program
+
+## Exercise
+
 __t6, t9_1__ - exec, compile<br>
 __t7, t8, t7cs, t34__ - sockets; t7 - server, t8 - client; python t7cs.py - calls the server and the client as processes - subprocess, Popen, spawn... <br>
 __t9_1, t9_3b, t9_4__ - Check file system attributes (time, size); walk directories recursively (for processing multiple files), call ffmpeg as a process (Popen), get videos lenght
