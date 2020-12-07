@@ -2,9 +2,9 @@
 
 ## Various tests, experiments, ...
 
-## Draw
+### Draw_Grid
 
-Drawing program
+Draws grid with coordinates inside, adjustable sizes of the cells. OpenCV.
 
 ## Exercise
 
