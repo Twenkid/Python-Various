@@ -3,7 +3,8 @@
 #print(s.encode(encoding='utf-8'));  #print(j.encode(encoding='utf-8')); 	#print(j.encode(encoding='windows-1251')); #print(k[2:]) #remove the:  b'
 #>>>python t9_4.py > ff.bat   ...   >>>ff.bat
 #ffmpeg ... copy generate commands ... crop ...
-#Author: (C) Todor Arnaudov, 2014?, 2016, 7.12.2020 (recursive iteration)
+#Walk directories Recursively, filter and apply ffmpeg commands on files ... (set...)
+#Author: (C) Todor Arnaudov, 2014?, 2016, 7.12.2020 
 
 videos = []
 commands = []
