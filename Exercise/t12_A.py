@@ -1,4 +1,8 @@
 #Reports ... Notes, tables ... generation ... 3-6-2016
+# Generation of a HTML table with number index links within the document 1, 2, 3, 4, 5, ...
+# Author: Todor Arnaudov - http://twenkid.com
+# See also the other t12_... files
+
 print(r"""
 <!DOCTYPE html><html><head>
 <Meta Http-Equiv="Content-Type" content="text/html;windows-1251">
