@@ -1,6 +1,6 @@
 # Generation of a HTML table with number index links within the document 1, 2, 3, 4, 5, ...
 # Author: Todor Arnaudov - http://twenkid.com
-# For the book "Какво му трябва на човек..."
+# For the book "Какво му трябва на човек..."?
 # See also the other t12_... files
 
 print(r"""
