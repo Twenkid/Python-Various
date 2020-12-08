@@ -1,6 +1,8 @@
 #t10.py
 #python 3.3 print('...')
 #O'Reilly ... p.510 others
+# Count words in text and timing ...
+# Author: Todor Arnaudov
 
 #timing
 
