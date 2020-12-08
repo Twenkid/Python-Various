@@ -1,3 +1,6 @@
+# Author: Todor Arnaudov, 1/4/2016
+# Reading the length of videos by parsing ffmpeg output with regular expressions
+
 import re
 text = """ Metadata:
    major_brand     : isom
