@@ -1,0 +1,12 @@
+<button type="button"style="background-color: #40A580; font-size: 17px" onclick=fProcess(11,"Лягане")>Лягане</button>
+<button type="button"style="background-color: #40B590; font-size: 17px" onclick=fProcess(12,"Ставане")>Ставане</button>
+<button type="button"style="background-color: #50C09A; font-size: 17px" onclick=fProcess(13,"Ядене")>Ядене</button>
+<button type="button"style="background-color: #57C6A6; font-size: 17px" onclick=fProcess(14,"Напитка")>Напитка</button>
+<button type="button"style="background-color: #64CAAF; font-size: 17px" onclick=fProcess(15,"Дъмбели")>Дъмбели</button>
+<button type="button"style="background-color: #70D5B0; font-size: 17px" onclick=fProcess(16,"Набиране")>Набиране</button>
+<button type="button"style="background-color: #79DAB9; font-size: 17px" onclick=fProcess(17,"Лицеви опори")>Лицеви опори</button>
+<button type="button"style="background-color: #80E6C0; font-size: 17px" onclick=fProcess(18,"Бройки")>Бройки</button>
+<button type="button"style="background-color: #88EAC6; font-size: 17px" onclick=fProcess(19,"Разходка")>Разходка</button>
+<button type="button"style="background-color: #96F0D4; font-size: 17px" onclick=fProcess(20,"Бягане")>Бягане</button>
+<button type="button"style="background-color: #806040; font-size: 17px" onclick=fProcess(21,"Колело")>Колело</button>
+<button type="button"style="background-color: #8F7465; font-size: 17px" onclick=fProcess(22,"Друго")>Друго</button>
