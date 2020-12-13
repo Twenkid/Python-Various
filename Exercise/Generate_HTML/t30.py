@@ -1,7 +1,5 @@
 import sys
 import string
-# Generate Buttons for activity log
-# Author: Todor Arnaudov, 31.3.2015
 
 #for i in range(0, 101): print("0.5.",i)
 #for i in range(0, 61): print("0.2.",i)
