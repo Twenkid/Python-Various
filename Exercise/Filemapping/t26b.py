@@ -1,7 +1,7 @@
 import mmap
 import sys
 import array
-#Author: Todor, Interprocess communication, for ACS etc.
+#Author: (C) Todor Arnaudov, Interprocess communication, for ACS etc.
 #27-3-2015
 #f = open('cppcsh.bin', 'br')
 #has to know the path!... not only the name... Discover, init folder ...
