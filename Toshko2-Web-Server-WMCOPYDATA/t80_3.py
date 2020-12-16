@@ -1,5 +1,6 @@
-﻿#WM_COPYDATA, python ... try with py27 first - ASCII
+# WM_COPYDATA, python ... try with py27 first - ASCII
 #-*-
+# Author: Todor Arnaudov 4.2016
 import win32api
 import win32gui
 import win32con
