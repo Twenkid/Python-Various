@@ -1,5 +1,5 @@
 # Computes the number of pixels for different resolutions, for 24-bit color (bitmap)
-# Todor
+# Todor 18.6.2016
 m = 16 #multiplier
 p = 3 #per pixel
 for i in range(1,129): 
