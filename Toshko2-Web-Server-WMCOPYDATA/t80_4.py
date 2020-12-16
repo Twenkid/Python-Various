@@ -1,9 +1,11 @@
-﻿#t80_2.py ... Python 2.7
+#t80_2.py ... Python 2.7
 #Web POST client
 #Here is an example session that shows how to POST requests:
 #2-4-2016
 #t80_4.py	7-4-2016
 #OK, works! :)
+# Author: Todor Arnaudov
+
 from sys import version
 
 if version.startswith('3'):
