@@ -1,5 +1,5 @@
 #t83.py
-
+# WAV process with numpy ... 15.4.2016
 #f = open("b:\\wav\\1.wav", "rb") 
 #r = f.read()
 import numpy as np
