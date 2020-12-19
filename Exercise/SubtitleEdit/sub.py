@@ -5,7 +5,7 @@
 # It is applied for version 3.5.18: https://www.nikse.dk/SubtitleEdit
 # The target file is Settings.xml in the root folder after installation where SubtitleEdit.exe is located (I used the portable version)
 # Sample Usage: python sub.py Z:\SE3518\Settings.xml 33
-# Sets the font size to 33 in the dialog for the next time Export dialog is opened (I couldn't test whether it reads from this file for the command line version though,
+# Sets the font size to 33 in the dialog for the next time Export dialog is opened (I couldn't test whether it reads from this file for the command line version but I guess so,
 # the sample command doesn't produce anything without giving an error:
 # SubtitleEdit.exe /convert 'test_subtitles.srt' Blu-raysup /resolution:1920x1080 /overwrite
 
@@ -71,8 +71,7 @@ def SubstituteToFileTest(path, size):
       b = f.read()
     s = b.decode(encoding='utf-8')       
     print(s)
-    fontSize = size
-    print(s)
+    fontSize = size   
     p1 = "<ExportBluRayFontSize>(.+)</ExportBluRayFontSize>"
     p2 = "<ExportBluRayFontSize>"+str(fontSize)+"</ExportBluRayFontSize>"
     res = re.search(p1, s, re.MULTILINE)
@@ -95,7 +94,6 @@ def SubstituteXML(path, size):
     s = b.decode(encoding='utf-8')       
     print(s)
     fontSize = size
-    print(s)
     p1 = "<ExportBluRayFontSize>(.+)</ExportBluRayFontSize>"
     p2 = "<ExportBluRayFontSize>"+str(fontSize)+"</ExportBluRayFontSize>"
     res = re.search(p1, s, re.MULTILINE)
