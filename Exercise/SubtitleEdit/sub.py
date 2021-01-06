@@ -1,7 +1,8 @@
 # Update FontSize for BlueRay Sup export with SubEdit
 # Automatically substitute the setting in the XML config file
 # Author: Todor Arnaudov, 19.12.2020
-# Solution for the question of L42 for scaling Blueray sup->dvbsub subtitles with command line tools only https://stackoverflow.com/questions/65038906/how-to-go-from-srt-subtitles-and-a-ts-video-to-a-ts-video-with-dvb-subtitles/65329763#65329763 
+# Solution for the question of L42 for scaling Blueray sup->dvbsub subtitles with command line tools only:
+# https://stackoverflow.com/questions/65038906/how-to-go-from-srt-subtitles-and-a-ts-video-to-a-ts-video-with-dvb-subtitles/65329763#65329763 
 # It is applied for version 3.5.18: https://www.nikse.dk/SubtitleEdit
 # The target file is Settings.xml in the root folder after installation where SubtitleEdit.exe is located (I used the portable version)
 # Sample Usage: python sub.py Z:\SE3518\Settings.xml 33
