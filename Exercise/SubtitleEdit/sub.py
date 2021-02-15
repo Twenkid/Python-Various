@@ -1,4 +1,4 @@
-# Update FontSize for BlueRay Sup export with SubEdit
+# Update FontSize for BluRay Sup export with SubEdit
 # Automatically substitute the setting in the XML config file
 # Author: Todor Arnaudov, 19.12.2020
 # Solution for the question of L42 for scaling Blueray sup->dvbsub subtitles with command line tools only:
