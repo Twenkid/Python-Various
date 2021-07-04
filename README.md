@@ -18,3 +18,12 @@ __t27.py, t33, t38, 39, 40__ - postgres  --> t38: add to DB from ACS!!!! **<br>
 __t34__ - socket<br>
 __t35__ - urllib2<br>
 __t36__ - zip<br>
+
+## Games
+
+mario.py, mario2.py ...
+https://github.com/Twenkid/Python-Various/tree/main/Exercise/pygame
+
+## Cool Links:
+
+https://github.com/Mechachleopteryx/python-cheatsheet
